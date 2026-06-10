@@ -1,8 +1,8 @@
 ![SucceedHQ innovations](https://img.shields.io/badge/SucceedHQ-innovations-1a1a2e?style=for-the-badge)
 ![Engineering](https://img.shields.io/badge/Engineering-Studio-00d4aa?style=for-the-badge)
 ![Lagos](https://img.shields.io/badge/Based_in-Lagos,_Nigeria-ff6b35?style=for-the-badge)
-![Projects](https://img.shields.io/badge/5-Projects-blue?style=for-the-badge)
-![Languages](https://img.shields.io/badge/7-Languages-purple?style=for-the-badge)
+![Projects](https://img.shields.io/badge/20-Projects-blue?style=for-the-badge)
+![Languages](https://img.shields.io/badge/8-Languages-purple?style=for-the-badge)
 
 ---
 
@@ -14,47 +14,57 @@ SucceedHQ innovations is a software engineering studio that designs, builds, and
 
 ---
 
-## Portfolio
+## Portfolio — 20 Projects
 
-### QuickPay Admin
-**Real-time payment processing dashboard**
-`React` `TypeScript` `Supabase` `Tailwind` `Netlify`
+### Web & Frontend
 
-Production admin interface for managing transactions, users, and analytics with live data synchronization.
+| Project | Stack | Description |
+|---------|-------|-------------|
+| [succeedhq-website](https://github.com/SucceedHQ-innovations/succeedhq-website) | Next.js, TypeScript, Tailwind | Corporate website with blog, case studies, dark mode |
+| [QUICKPAY-ADMIN](https://github.com/SucceedHQ-innovations/QUICKPAY-ADMIN) | React, TypeScript, Supabase | Payment processing admin dashboard with real-time analytics |
+| [react-form-builder](https://github.com/SucceedHQ-innovations/react-form-builder) | React, TypeScript, DnD Kit | Drag-and-drop form builder library with 15+ field types |
+| [nextjs-saas-starter](https://github.com/SucceedHQ-innovations/nextjs-saas-starter) | Next.js 14, Prisma, Stripe | Production SaaS starter with billing, teams, RBAC |
+| [vue3-admin-dashboard](https://github.com/SucceedHQ-innovations/vue3-admin-dashboard) | Vue 3, Pinia, Chart.js | Admin dashboard with analytics, user management, i18n |
 
-[View Repository →](https://github.com/SucceedHQ-innovations/QUICKPAY-ADMIN)
+### Backend & API
 
-### CMINING
-**Cryptocurrency mining management platform**
-`Python` `FastAPI` `Electron` `TypeScript` `PostgreSQL`
+| Project | Stack | Description |
+|---------|-------|-------------|
+| [fastapi-boilerplate](https://github.com/SucceedHQ-innovations/fastapi-boilerplate) | FastAPI, SQLAlchemy, Celery | Production backend starter with JWT auth and async tasks |
+| [outreach-key-server](https://github.com/SucceedHQ-innovations/outreach-key-server) | Flask, SQLAlchemy, SQLite | Access key management & lead tracking API |
+| [spring-boot-inventory](https://github.com/SucceedHQ-innovations/spring-boot-inventory) | Java 17, Spring Boot 3, JPA | RESTful inventory API with audit logging and Swagger |
+| [nodejs-microservice](https://github.com/SucceedHQ-innovations/nodejs-microservice) | Node.js, TypeScript, RabbitMQ | Event-driven microservice with CQRS and distributed tracing |
+| [go-api-gateway](https://github.com/SucceedHQ-innovations/go-api-gateway) | Go 1.22, Redis | Lightweight API gateway with rate limiting and circuit breaker |
 
-Full-stack platform with admin dashboard, desktop client, and async mining engine for managing mining operations.
+### Mobile
 
-[View Repository →](https://github.com/SucceedHQ-innovations/CMINING)
+| Project | Stack | Description |
+|---------|-------|-------------|
+| [voice-changer-android](https://github.com/SucceedHQ-innovations/voice-changer-android) | Kotlin, Jetpack Compose, WebRTC | Real-time voice transformation for VoIP calls |
+| [flutter-ecommerce-app](https://github.com/SucceedHQ-innovations/flutter-ecommerce-app) | Flutter, Dart, Firebase | Cross-platform e-commerce app with Stripe payments |
+| [react-native-chat-app](https://github.com/SucceedHQ-innovations/react-native-chat-app) | React Native, Socket.io | Real-time messaging with end-to-end encryption |
+| [NR3C](https://github.com/SucceedHQ-innovations/nr3c) | Capacitor, HTML, JavaScript | Cross-platform mobile utility application |
 
-### VoIP Call Voice Changer
-**Real-time voice transformation for WhatsApp & Telegram calls**
-`Kotlin` `Jetpack Compose` `Python` `WebRTC` `RVC`
+### Data & ML
 
-Android application with hardware-near audio processing — pitch shifting with formant preservation under 100ms latency.
+| Project | Stack | Description |
+|---------|-------|-------------|
+| [CMINING](https://github.com/SucceedHQ-innovations/CMINING) | Python, FastAPI, Electron | Cryptocurrency mining management platform |
+| [python-data-pipeline](https://github.com/SucceedHQ-innovations/python-data-pipeline) | Python, Apache Beam, Pandas | Extensible ETL framework with pluggable sources |
+| [machine-learning-starter](https://github.com/SucceedHQ-innovations/machine-learning-starter) | Python, TensorFlow, MLflow | ML project template with experiment tracking and serving |
 
-[View Repository →](https://github.com/SucceedHQ-innovations/voice-changer-android)
+### DevOps & Infrastructure
 
-### Outreach Key Server
-**Access key management and lead tracking API**
-`Flask` `SQLAlchemy` `SQLite` `REST`
+| Project | Stack | Description |
+|---------|-------|-------------|
+| [docker-compose-stacks](https://github.com/SucceedHQ-innovations/docker-compose-stacks) | Docker, YAML | Production Compose configs for LAMP, MERN, ELK, monitoring |
+| [terraform-aws-infra](https://github.com/SucceedHQ-innovations/terraform-aws-infra) | Terraform 1.7+, AWS | IaC templates for VPC, ECS, RDS, CloudFront, Route53 |
 
-Authentication and analytics server for outreach automation campaigns. Issuing, validation, and per-key performance tracking.
+### Developer Tools
 
-[View Repository →](https://github.com/SucceedHQ-innovations/outreach-key-server)
-
-### NR3C
-**Cross-platform mobile utility app**
-`Capacitor` `HTML` `JavaScript` `Java`
-
-Lightweight mobile application built with Capacitor, wrapping web technologies into native Android experiences.
-
-[View Repository →](https://github.com/SucceedHQ-innovations/nr3c)
+| Project | Stack | Description |
+|---------|-------|-------------|
+| [rust-cli-toolkit](https://github.com/SucceedHQ-innovations/rust-cli-toolkit) | Rust, clap, serde | High-performance CLI utilities: file watcher, HTTP benchmarker |
 
 ---
 
@@ -76,12 +86,13 @@ Every repository in this organization follows these non-negotiable practices:
 ## Tech Stack
 
 ```
-Frontend          React · TypeScript · Tailwind CSS · Vite · Jetpack Compose
-Backend           Python · Flask · FastAPI · Node.js
-Mobile            Kotlin · Capacitor · WebRTC
-Database          PostgreSQL · SQLite · Supabase
-Desktop           Electron
-DevOps            GitHub Actions · Netlify
+Frontend          React · Next.js · Vue 3 · TypeScript · Tailwind CSS · Vite
+Backend           Python · FastAPI · Flask · Node.js · Java · Spring Boot · Go
+Mobile            Kotlin · Jetpack Compose · Flutter · React Native · Capacitor
+Database          PostgreSQL · SQLite · MySQL · MongoDB · Redis · Supabase
+ML/Data           TensorFlow · PyTorch · MLflow · Apache Beam · Pandas
+DevOps            Docker · Terraform · GitHub Actions · Netlify · Prometheus
+Languages         TypeScript · Python · Kotlin · Java · Go · Rust · Dart · JavaScript
 ```
 
 ---
