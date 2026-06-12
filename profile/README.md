@@ -36,6 +36,14 @@ SucceedHQ innovations is a software engineering studio that designs, builds, and
 | [nodejs-microservice](https://github.com/SucceedHQ-innovations/nodejs-microservice) | Node.js, TypeScript, RabbitMQ | Event-driven microservice with CQRS and distributed tracing |
 | [go-api-gateway](https://github.com/SucceedHQ-innovations/go-api-gateway) | Go 1.22, Redis | Lightweight API gateway with rate limiting and circuit breaker |
 
+
+### Game Development
+
+| Project | Engine | Description |
+|---------|-------|-------------|
+| [unity-2d-platformer](https://github.com/SucceedHQ-innovations/unity-2d-platformer) | Unity + C# | 2D platformer engine with physics-based movement, state-machine AI, procedural generation, object pooling |
+| [godot-rpg-framework](https://github.com/SucceedHQ-innovations/godot-rpg-framework) | Godot 4 + GDScript | RPG framework with ECS combat, dialogue graphs, BSP dungeons, quest engine, grid inventory |
+| [unreal-shooter-base](https://github.com/SucceedHQ-innovations/unreal-shooter-base) | UE5 + C++ | Multiplayer shooter with GAS ability system, behavior trees, networked physics, Niagara VFX |
 ### Mobile
 
 | Project | Stack | Description |
