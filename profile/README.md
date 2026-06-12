@@ -1,8 +1,8 @@
 ![SucceedHQ innovations](https://img.shields.io/badge/SucceedHQ-innovations-1a1a2e?style=for-the-badge)
 ![Engineering](https://img.shields.io/badge/Engineering-Studio-00d4aa?style=for-the-badge)
 ![Lagos](https://img.shields.io/badge/Based_in-Lagos,_Nigeria-ff6b35?style=for-the-badge)
-![Projects](https://img.shields.io/badge/20-Projects-blue?style=for-the-badge)
-![Languages](https://img.shields.io/badge/8-Languages-purple?style=for-the-badge)
+![Projects](https://img.shields.io/badge/23-Projects-blue?style=for-the-badge)
+![Languages](https://img.shields.io/badge/11-Languages-purple?style=for-the-badge)
 
 ---
 
